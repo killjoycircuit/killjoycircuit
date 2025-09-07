@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ killjoycircuit }}
+          github_user_name: ${{ github_username }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -21,7 +21,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.killjoycircuit }}
+          github_user_name: ${{ github.user_name }}
           outputs: |
             dist/docker/github-contribution-grid-snake.svg
             dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
