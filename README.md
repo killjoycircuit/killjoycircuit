@@ -8,7 +8,9 @@
   <a href="https://www.linkedin.com/in/rutuj-dhawale-6a471931b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
-![snake gif](https://github.com/killjoycircuit/killjoycircuit/blob/output/github-contribution-grid-snake.svg)
+<p align="cengter">
+  <img src="https://raw.githubusercontent.com/killjoycircuit/killjoycircuit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
 
 - My name is Rutuj Dhawale.
 - I am a fourth year engineering student at [VJTI Mumbai](https://vjti.ac.in/), India.
