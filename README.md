@@ -10,5 +10,5 @@ Here are some ideas to get you started:.
 
 ## Tech stack
 
-[![Python, CPP, Express, Git, Github, Mongodb, Nodejs, Mongoose , Visualstudio, Stackoverflow](https://skillicons.dev/icons?i=go,py,c,cpp,express,git,github,mongodb,mongoose,nodejs,visualstudio,stackoverflow&perline=10)](https://skillicons.dev)
+[![CPP, Python, Express, Git, Github, Mongodb, Nodejs, Mongoose , Visualstudio, Stackoverflow](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,mongoose,nodejs,visualstudio,stackoverflow&perline=10)](https://skillicons.dev)
 
