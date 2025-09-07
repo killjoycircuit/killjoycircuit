@@ -9,7 +9,7 @@
 </p>
 
 <p align="cengter">
-  <img src="https://github.com/killjoycircuit/killjoycircuit/blob/output/github-contribution-grid-snake.gif" />
+  ![snake gif](https://github.com/killjoycircuit/killjoycircuit/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 - My name is Rutuj Dhawale.
