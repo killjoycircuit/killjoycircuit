@@ -3,6 +3,17 @@
 <!--
 **killjoycircuit/killjoycircuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div>
+	<img src="header.svg" width="1250" height="125">
+	<br>
+</div>
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/?style=flat&logo=X&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rutuj-dhawale-6a471931b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+<!-- <p align="cengter">
+  <img src="https://raw.githubusercontent.com/milinddethe15/milinddethe15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p> -->
 
 - My name is Rutuj Dhawale.
 - I am a fourth year engineering undergraduate student at [VJTI Mumbai](https://vjti.ac.in/), India.
