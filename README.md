@@ -7,8 +7,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rutuj-dhawale-6a471931b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
-<!-- <p align="cengter">
-  <img src="https://raw.githubusercontent.com/milinddethe15/milinddethe15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<!-- <p align="center">
+  <img src="" />
 </p> -->
 
 - My name is Rutuj Dhawale.
