@@ -9,5 +9,5 @@
 
 ## Tech stack
 
-[![CPP, Python, Express, Git, Github, Mongodb, Nodejs ,JavaScript,Visualstudio, Stackoverflow](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,nodejs,js,visualstudio,stackoverflow&perline=10)](https://skillicons.dev)
+[![CPP, Python, Express, Git, Github, Mongodb, Nodejs ,JavaScript, Stackoverflow](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,nodejs,js,stackoverflow&perline=10)](https://skillicons.dev)
 
