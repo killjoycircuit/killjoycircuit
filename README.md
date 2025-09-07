@@ -7,9 +7,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rutuj-dhawale-6a471931b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
-<!-- <p align="center">
-  <img src="" />
-</p> -->
+<p align="center">
+  <img src="https://github.com/your_github_name/your_github_name/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 - My name is Rutuj Dhawale.
 - I am a fourth year engineering undergraduate student at [VJTI Mumbai](https://vjti.ac.in/), India.
