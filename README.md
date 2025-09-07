@@ -6,7 +6,7 @@
 Here are some ideas to get you started:.
 -->
 - My name is Rutuj Dhawale.
-- I am a fourth year engineering undergraduate student at [VJTI Mumbai](https://vjti.ac.in/), India
+- I am a fourth year engineering undergraduate student at [VJTI Mumbai](https://vjti.ac.in/), India.
 
 ## Tech stack
 
