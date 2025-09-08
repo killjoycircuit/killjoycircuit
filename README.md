@@ -15,7 +15,6 @@
 - My name is Rutuj Dhawale.
 - I am a fourth year engineering student at [VJTI Mumbai](https://vjti.ac.in/), India.
 
-
 ## Tech stack
 
 [![CPP, Python, Express, Git, Github, Mongodb, Nodejs ,JavaScript,React,Stackoverflow](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,nodejs,js,react,stackoverflow&perline=10)](https://skillicons.dev)
