@@ -14,6 +14,7 @@
 
 - My name is Rutuj Dhawale.
 - I am a fourth year engineering student at [VJTI Mumbai](https://vjti.ac.in/), India.
+- Web Development Enthusiast
 
 ## Tech stack
 
