@@ -20,5 +20,5 @@
 [![CPP, Python, Express, Git, Github, Mongodb, Nodejs ,JavaScript, React,Stackoverflow](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,nodejs,js,react,stackoverflow&perline=10)](https://skillicons.dev)
 
 ###
-<img align="left" src="https://komarev.com/ghpvc/?username=killjoycircuit&color=blue" />
+<img align="left" src="https://komarev.com/ghpvc/?username=killjoycircuit&color=blue"/>
 
