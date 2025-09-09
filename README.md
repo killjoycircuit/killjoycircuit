@@ -10,7 +10,6 @@
 
 <p align="cengter">
   <img src="https://raw.githubusercontent.com/killjoycircuit/killjoycircuit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  
 </p>
 
 - My name is Rutuj Dhawale.
