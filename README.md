@@ -1,5 +1,6 @@
-## 👋 Namaste, I'm Rutuj
+## 
 <!--
+👋 Namaste, I'm Rutuj
 **killjoycircuit/killjoycircuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="left">
@@ -12,8 +13,10 @@
   <img src="https://raw.githubusercontent.com/killjoycircuit/killjoycircuit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
+<!-- 
 - My name is Rutuj Dhawale.
 - I am a fourth year engineering student at [VJTI Mumbai](https://vjti.ac.in/), India.
+ -->
 
 ## Tech stack
 
