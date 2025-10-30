@@ -3,10 +3,10 @@
 👋 Namaste, I'm Rutuj
 **killjoycircuit/killjoycircuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/rutuj-dhawale-6a471931b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>  
 <!--   <a href="mailto:rutujdhawale@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>   -->
-</p>
+<!-- </p> --> -->
 
 
 <p align="cengter">
@@ -20,7 +20,7 @@
 
 ## Tech stack
 
-[![CPP, Python, Express, Git, Github, Mongodb, Nodejs ,JavaScript,React](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,nodejs,js,react,&perline=10)](https://skillicons.dev)
+[![CPP, Python, Express, Git, Github, Mongodb, Markdown ,Nodejs ,JavaScript,React](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,markdown,nodejs,js,react,&perline=10)](https://skillicons.dev)
 
 ###
 
